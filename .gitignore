@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+rjavaenv/
+street_network.osm.pbf.mapdb
+street_network.osm.pbf.mapdb.p
+network.dat
+r5r-log
+network_settings.json
