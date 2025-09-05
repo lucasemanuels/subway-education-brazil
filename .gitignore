@@ -6,5 +6,6 @@ rjavaenv/
 street_network.osm.pbf.mapdb
 street_network.osm.pbf.mapdb.p
 network.dat
-r5r-log
+r5r-log.log
 network_settings.json
+.Rprofile
